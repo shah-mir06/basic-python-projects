@@ -63,6 +63,3 @@ Contributions are welcome! If you’d like to add improvements, follow these ste
 2. Create a new branch for your feature.
 3. Commit and push your changes.
 4. Open a pull request.
-
-```sh
-```
