@@ -40,7 +40,7 @@ Follow these steps to set up the repository on your local machine:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/AI-101.git
+   git clone https://github.com/shah-mir06/AI-101.git
    ```
 2. **Navigate to the Project Directory**
    ```sh
@@ -64,6 +64,5 @@ Contributions are welcome! If you’d like to add improvements, follow these ste
 3. Commit and push your changes.
 4. Open a pull request.
 
-## License
-
-This project is open-source and available under the **MIT License**.
+```sh
+```
